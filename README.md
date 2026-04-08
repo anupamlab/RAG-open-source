@@ -209,7 +209,7 @@ This project integrates **RAGAS** for systematic evaluation.
 
 ## 1️⃣ Install Ollama
 
-Download and install from: https://ollama.com
+Download and install ollama
 
 ---
 
@@ -241,10 +241,6 @@ Place your files inside:
 ---
 
 ## 5️⃣ Run the Application
-
-```
-python main.py
-```
 
 ---
 
