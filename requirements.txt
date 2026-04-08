@@ -1,0 +1,45 @@
+# =========================
+# Core LangChain
+# =========================
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# =========================
+# Vector DB
+# =========================
+chromadb
+
+# =========================
+# LLM + Embeddings (Local)
+# =========================
+ollama
+
+# =========================
+# RAG Evaluation
+# =========================
+ragas
+datasets
+
+# =========================
+# Document Loaders
+# =========================
+pypdf
+docx2txt
+
+# =========================
+# Utils (IMPORTANT)
+# =========================
+numpy
+pandas
+tqdm
+
+# =========================
+# Streamlit UI
+# =========================
+streamlit
+
+
+
+#pip install -r requirements.txt
