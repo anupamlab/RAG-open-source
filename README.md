@@ -85,7 +85,7 @@ This project uses:
 ```
 rag-project/
 │
-├── main.py                  # Main RAG pipeline
+├── main.py 
 │
 ├── data/                   # Input documents
 │   ├── sample.pdf
@@ -94,9 +94,9 @@ rag-project/
 │
 ├── chroma_db/              # Persistent vector store
 │
-├── requirements.txt        # Dependencies
+├── requirements.txt
 │
-└── README.md               # Project documentation
+└── README.md   
 ```
 
 ---
