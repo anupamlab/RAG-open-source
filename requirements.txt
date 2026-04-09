@@ -40,5 +40,3 @@ tqdm
 streamlit
 
 
-
-#pip install -r requirements.txt
